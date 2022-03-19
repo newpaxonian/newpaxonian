@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @newpaxonian
-- 👀 I’m interested in innovative tech
+- 👀 I’m interested in blockchain, quantum computing, cybersecurity
 - 🌱 I’m currently learning cryptography
 - 📫 How to reach me @newpaxonian on twitter/instagram/discord
 
