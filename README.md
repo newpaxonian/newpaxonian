@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @newpaxonian
-- 👀 I’m interested in blockchain, quantum computing, cybersecurity
+- 👀 I’m interested in Python, blockchain, quantum computing, cryptos
 - 🌱 I’m currently learning cryptography
+- 🎮 I'm playing Blasfemous, Anno> Mutationem, NieR: Automata
 - 📫 How to reach me @newpaxonian on twitter/instagram/discord
 
 <!---
